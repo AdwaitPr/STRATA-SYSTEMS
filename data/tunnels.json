@@ -1,0 +1,58 @@
+[
+  {
+    "id": "laminar-calm",
+    "name": "Laminar Calm",
+    "description": "Low-vorticity architectural boundary flow with crisp, rapid surface recovery.",
+    "vorticityEps": 9,
+    "healRate": 0.952,
+    "splatRadius": 0.0024,
+    "velocityDissipation": 0.978,
+    "showNeedles": true,
+    "surfaceMode": "alabaster",
+    "reynoldsLabel": "Re 1.8×10³",
+    "builtIn": true,
+    "createdAt": "2026-01-12T09:00:00.000Z"
+  },
+  {
+    "id": "high-vorticity-eddy",
+    "name": "High-Vorticity Eddy",
+    "description": "Pronounced Fedkiw curl confinement rolling pointer wakes into tight aerodynamic eddies.",
+    "vorticityEps": 32,
+    "healRate": 0.968,
+    "splatRadius": 0.002,
+    "velocityDissipation": 0.989,
+    "showNeedles": true,
+    "surfaceMode": "alabaster",
+    "reynoldsLabel": "Re 6.4×10⁴",
+    "builtIn": true,
+    "createdAt": "2026-01-14T11:30:00.000Z"
+  },
+  {
+    "id": "slow-heal-xray",
+    "name": "Slow-Heal X-Ray",
+    "description": "Extended blueprint dwell aperture exposing structural CAD schematics across obsidian paper.",
+    "vorticityEps": 16.5,
+    "healRate": 0.986,
+    "splatRadius": 0.0032,
+    "velocityDissipation": 0.986,
+    "showNeedles": true,
+    "surfaceMode": "obsidian",
+    "reynoldsLabel": "Re 3.1×10⁴",
+    "builtIn": true,
+    "createdAt": "2026-01-18T14:15:00.000Z"
+  },
+  {
+    "id": "supersonic-shear",
+    "name": "Supersonic Shear",
+    "description": "Razor-narrow shear kernel with high momentum persistence and rapid needle deflection.",
+    "vorticityEps": 38.5,
+    "healRate": 0.946,
+    "splatRadius": 0.0012,
+    "velocityDissipation": 0.993,
+    "showNeedles": true,
+    "surfaceMode": "obsidian",
+    "reynoldsLabel": "Re 1.2×10⁵",
+    "builtIn": true,
+    "createdAt": "2026-01-22T16:45:00.000Z"
+  }
+]

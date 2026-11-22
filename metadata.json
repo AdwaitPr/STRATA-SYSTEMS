@@ -1,0 +1,8 @@
+{
+  "name": "STRATA SYSTEMS",
+  "description": "Spatial engineering monograph and interactive 2D Stable-Fluids Navier-Stokes wind-tunnel telemetry lab with dual-reality X-Ray blueprint reveal and GPU-instanced vector field.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
